@@ -1,9 +1,12 @@
 # Hey There! 👋
 
-My name is <b>Karim</b> - I am a software engineer and a student. 
+My name is <b>Karim</b> - I am a 'student' software engineer. You can find my tech stack down here.
 </br>
 </br>
-[![My Skills](https://skillicons.dev/icons?i=py,cs,rust,laravel,mysql,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,javascript,java,php,laravel,dotnet,unity,tailwind,mysql,azure)](https://skillicons.dev)
+
+## I'm currently learning:
+[![My Skills](https://skillicons.dev/icons?i=rust,pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
 ## Find me on:
 <p><a href="https://github.com/karimdiabb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
