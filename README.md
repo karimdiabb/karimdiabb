@@ -1,6 +1,6 @@
-# Hey There! 👋
+# Hey There!👋
 
-My name is <b>Karim</b> - I am a 'student' software engineer. You can find my tech stack down here.
+My name is <b>Karim</b> - I am a 'student' software engineer. Below, you'll find the languages and frameworks I've worked with.
 </br>
 </br>
 [![My Skills](https://skillicons.dev/icons?i=py,cs,javascript,java,php,laravel,dotnet,unity,tailwind,mysql,azure)](https://skillicons.dev)
